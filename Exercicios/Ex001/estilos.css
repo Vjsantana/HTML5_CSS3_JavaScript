@@ -1,0 +1,24 @@
+header {
+    background-color: rgb(132, 226, 210);
+    color: rgb(228, 97, 22);
+    margin: auto;
+    text-align: center ;
+    padding:17px 0 17px 0; /* Esse comando ajuda a centralizar verticalmente o texto em um header. As quatro medidas apresentadas em 'px' representam respectivamente as seguintes posições: Em cima, à esquerda, em baixo e à direita. */
+    font-style: italic;
+    line-height: 50%;
+    height: 90px;
+
+}
+
+body{
+    background-color: azure;
+    width: 1300px ;
+    margin: auto;
+}
+
+footer{
+    background-color: rgb(213, 216, 63);
+    margin: 0px 0px 20px 0px; /* As quatro medidas apresentadas em 'px' representam respectivamente as seguintes posições: Em cima, à direita, em baixo e à esquerda. */
+    padding: 1px 0px 26px 5px;
+    height: 30px;
+}
